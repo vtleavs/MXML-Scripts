@@ -1,0 +1,35 @@
+<note>
+<pitch>
+<step>�</step>
+<alter>1</alter>
+<octave>0</octave>
+</pitch>
+<duration>1.#INF</duration>
+<voice>1</voice>
+<type></type>
+</note>
+
+<note>
+<pitch>
+<step>�</step>
+<alter>1</alter>
+<octave>0</octave>
+</pitch>
+<duration>1.#INF</duration>
+<voice>1</voice>
+<type></type>
+</note>
+
+ABOVE 2 NOTES CAUSED BY TERMS: 0 671
+
+<note>
+<pitch>
+<step>G</step>
+<octave>4</octave>
+</pitch>
+<duration>1.#INF</duration>
+<voice>1</voice>
+<type></type>
+</note>
+
+ABOVE NOTE UNKNOWN CAUSE
